@@ -1,0 +1,3 @@
+vcards/*
+!vcards/.gitkeep
+address.csv
